@@ -1,0 +1,7 @@
+{
+  "name": "Liubomyr",
+  "profession": "Front-End Developer",
+  "description": "Розробник рівня Junior, 4 місяці займаюсь самостійним вивченням технологій Front-End. Планую знайти стажування, роботу та стати повноцінним full-stack розробником до кінця 2023 року",
+  "img": "./img/IMG_liubomyr.png",
+  "skills": ["HTML", "CSS", "REACT", "GIT"]
+}

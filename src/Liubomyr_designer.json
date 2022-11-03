@@ -1,0 +1,7 @@
+{
+  "name": "Liubomyr",
+  "profession": "Graphic designer",
+  "description": "Графічний дизайнер з 12-річним досвідом роботи, фрилансер, в минулому - підприємець, викладач курсів графічного дизайну. Пам'ятаю часи, коли дизайн сайтів робили у фотошопі",
+  "img": "./img/IMG_liubomyr_designer.png",
+  "skills": ["Adobe Photoshop", "Adobe Illustrator", "Adobe InDesign", "Figma"]
+}
